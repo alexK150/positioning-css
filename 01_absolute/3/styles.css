@@ -1,0 +1,26 @@
+#square-1 {
+    border: 1px solid black;
+    background: black;
+    left: 30px;
+    top: 30px;
+}
+
+#square-2 {
+    border: 1px solid red;
+    background: red;
+    left: 68px;
+    top: 66px;
+}
+
+#square-3 {
+    border: 1px solid blue;
+    background: blue;
+    left: 102px;
+    top: 99px;
+}
+
+#square-1, #square-2, #square-3{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}

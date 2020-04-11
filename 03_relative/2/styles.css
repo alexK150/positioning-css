@@ -1,0 +1,25 @@
+.square-lg {
+    position: relative;
+    margin: auto;
+    background: green;
+    width: 600px;
+    height: 550px;
+}
+
+.square-sml1 {
+    position: absolute;
+    background: white;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 100px;
+}
+
+.square-sml2 {
+    position: absolute;
+    background: white;
+    width: 100px;
+    height: 100px;
+    bottom: 100px;
+    right: 100px;
+}

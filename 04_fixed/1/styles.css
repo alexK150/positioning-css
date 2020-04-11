@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+.wrapper {
+    position: relative;
+    margin: 55px 100px;
+    width: 60%;
+    border: 2px solid purple;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    box-sizing: border-box;
+    height: 50px;
+    background: olivedrab;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
